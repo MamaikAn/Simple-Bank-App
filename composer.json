@@ -1,0 +1,13 @@
+{
+    "name": "mamaikan/testapp",
+    "authors": [
+        {
+            "name": "Paul",
+            "email": "ganita09@rambler.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    }
+}
